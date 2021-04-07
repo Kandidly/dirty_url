@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     dirty_url (0.0.6)
-      rails (>= 3.1, < 6.0)
+      rails (>= 3.1)
 
 GEM
   remote: https://rubygems.org/
